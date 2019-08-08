@@ -14,3 +14,4 @@ USER djangoUser
 EXPOSE 8000
 
 ENTRYPOINT  ["python", "/storage/wwwroot/web/manage.py", "runserver", "--noreload", "0.0.0.0:8000"]
+
