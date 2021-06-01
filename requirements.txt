@@ -1,4 +1,4 @@
-urllib3==1.25.7
+urllib3==1.26.5
 mysql-connector==2.2.9
 mysqlclient==1.4.6
 schedule==0.6.0
